@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">573603840</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Actor Messages" Type="Folder">
 		<Item Name="Request Summary Msg.lvclass" Type="LVClass" URL="../VMR Actor Messages/Request Summary Msg/Request Summary Msg.lvclass"/>
 	</Item>
@@ -16,4 +17,5 @@
 	<Item Name="VMR Actor API.lvclass" Type="LVClass" URL="../VMR Actor API/VMR Actor API.lvclass"/>
 	<Item Name="VMR Actor.lvclass" Type="LVClass" URL="../VMR Actor/VMR Actor.lvclass"/>
 	<Item Name="VMR Server.lvclass" Type="LVClass" URL="../VMR Server/VMR Server.lvclass"/>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

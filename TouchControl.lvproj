@@ -145,6 +145,47 @@
 				<Property Name="TgtF_targetfileName" Type="Str">touchcontrol.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
+			<Item Name="VMR Server" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{FFEB745B-961E-4A80-8F31-4F46EC0417F0}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{BBCCD362-CE0D-4F89-BD83-0FCE90524230}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{DB50D524-CC2E-4316-87BE-6FC3F251A02B}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">VMR Server</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/VMR Server</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{C4863464-01AE-4F11-87B3-139447781701}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">vmr-server.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/VMR Server/vmr-server.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/VMR Server/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8E478E7F-E204-4C19-BF76-88C4873941C3}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/VMR Server.lvlib/Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">Blue Origin</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">VMR Server</Property>
+				<Property Name="TgtF_internalName" Type="Str">VMR Server</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 Blue Origin</Property>
+				<Property Name="TgtF_productName" Type="Str">VMR Server</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{A3D5DC2B-D472-47FC-B80B-43EB95DC2A4D}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">vmr-server.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
 		</Item>
 	</Item>
 	<Item Name="apio" Type="Raspberry Pi 2 B">

@@ -49,6 +49,15 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Data Types" Type="Folder"/>
+		<Item Name="Filter Levels.vi" Type="VI" URL="../Filter Levels.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#K!!!!"A!%!!!!$5!+!!&gt;/&gt;7VF=GFD!"R!1!!"`````Q!"$U:J&gt;'RF=G6E)%RF&gt;G6M=Q!,1!I!"52F9W&amp;Z!":!1!!"`````Q!"#5RF&gt;G6M=S"*&lt;A"5!0!!$!!!!!!!!A!!!!!!!!!!!!-!!!!!!!1!!!)!!(A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!!!!!!!!!!!)1!!!!!!!!!!!"!!5!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
+		</Item>
 	</Item>
 	<Item Name="Properties" Type="Folder"/>
 	<Item Name="Protected" Type="Folder">

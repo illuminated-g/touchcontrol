@@ -29,9 +29,6 @@
 	<Item Name="AudioMonPanel.ctl" Type="Class Private Data" URL="AudioMonPanel.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="_Callbacks" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-	</Item>
 	<Item Name="_Panel" Type="Folder">
 		<Item Name="Panel.vi" Type="VI" URL="../Panel.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#G!!!!!Q!%!!!!2E"Q!"Y!!#I36'^V9WB$&lt;WZU=G^M,GRW&lt;'FC&amp;5&amp;V:'FP47^O5'&amp;O:7QO&lt;(:D&lt;'&amp;T=Q!!%%&amp;V:'FP47^O5'&amp;O:7QA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!!A!!!!!</Property>
@@ -43,23 +40,18 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1074274832</Property>
 		</Item>
 	</Item>
-	<Item Name="Community" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
-	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Data Types" Type="Folder"/>
 		<Item Name="Filter Levels.vi" Type="VI" URL="../Filter Levels.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#K!!!!"A!%!!!!$5!+!!&gt;/&gt;7VF=GFD!"R!1!!"`````Q!"$U:J&gt;'RF=G6E)%RF&gt;G6M=Q!,1!I!"52F9W&amp;Z!":!1!!"`````Q!"#5RF&gt;G6M=S"*&lt;A"5!0!!$!!!!!!!!A!!!!!!!!!!!!-!!!!!!!1!!!)!!(A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!!!!!!!!!!!)1!!!!!!!!!!!"!!5!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#K!!!!"A!%!!!!$5!+!!&gt;/&gt;7VF=GFD!"R!1!!"`````Q!"$U:J&gt;'RF=G6E)%RF&gt;G6M=Q!,1!I!"52F9W&amp;Z!":!1!!"`````Q!"#5RF&gt;G6M=S"*&lt;A"5!0!!$!!!!!!!!A!!!!!!!!!!!!-!!!!!!!1!!!)!!(A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!!!!!!!!!!!!1!!!!!!!!!!!"!!5!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 		</Item>
 	</Item>
-	<Item Name="Properties" Type="Folder"/>
 	<Item Name="Protected" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		<Item Name="Cleanup.vi" Type="VI" URL="../Cleanup.vi">
@@ -80,9 +72,5 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 		</Item>
-	</Item>
-	<Item Name="Public" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Data Types" Type="Folder"/>
 	</Item>
 </LVClass>
